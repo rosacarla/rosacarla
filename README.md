@@ -1,34 +1,9 @@
 ### Welcome! 🚸 
-
-
-<html>
-<body>
-
-<table border="0" width="100%"
-cellpadding="10">
-<tr>
-
-<td width="50%" valign="top">
-<p><br>I'm am Carla!<br></p>  
-  
-:computer: I’ll be a Systems Analyst.
-
-:house_with_garden: I’m from Brazil.
-
-:books: I’m currently learning Human-Computer Interaction, IoT, Agile methodologies, Python Programming and Machine Learning Algorithms.
-
-:outbox_tray: 2021 Goals: colaborate on Artificial Intelligence projects.
-</td>
-
-<td width="50%" valign="top">
-<img src=https://user-images.githubusercontent.com/65525125/128612865-cb9c5629-50f0-42b4-8ff1-510e2765beb0.png
-width="294" height="268">
-</p>
-  
-</td>
-
-</tr>
-</table>
+##### I'm am Carla!  
+###### :computer: I’ll be a Systems Analyst.
+###### :house_with_garden: I’m from Brazil.
+###### :books: I’m currently learning Human-Computer Interaction, IoT, Agile methodologies, Python Programming and Machine Learning Algorithms.
+###### :outbox_tray: 2021 Goals: colaborate on Artificial Intelligence projects.
 
 ## About me
 
