@@ -2,7 +2,7 @@
 
 <img align='right' src="https://github.com/rosacarla/rosacarla/blob/main/avatar.png" width="215">
 
-##### I'm am Carla!  
+#### I'm am Carla!  
 ###### :computer: I’ll be a Systems Analyst.
 ###### :house_with_garden: I’m from Brazil.
 ###### :books: I’m currently learning Human-Computer Interaction, IoT, Agile methodologies, Python Programming and Machine Learning Algorithms.
