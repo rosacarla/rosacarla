@@ -5,8 +5,8 @@
 #### I'm am Carla!  
 ###### :computer: I’ll be a Systems Analyst.
 ###### :house_with_garden: I’m from Brazil.
-###### :books: I’m currently learning Human-Computer Interaction, IoT, Agile methodologies, Python Programming and Machine Learning Algorithms.
-###### :outbox_tray: 2021 Goals: colaborate on Artificial Intelligence projects.
+###### :books: I’m currently learning Data Analytics, Iot, Machine Learning, Python Programming, Web Development Technologies and Web System Security.
+###### :outbox_tray: 2022 Goals: colaborate on Artificial Intelligence projects.
 
 ## About me
 
