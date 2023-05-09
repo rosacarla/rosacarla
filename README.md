@@ -5,8 +5,8 @@
 #### I am Carla!  
 ###### :computer: I’ll be a Systems Analyst.
 ###### :house_with_garden: I’m from Brazil.
-###### :books: I’m currently learning Data Analytics, Cloud Computing, Machine Learning and Python.
-###### :outbox_tray: 2022 Goals: colaborate on Artificial Intelligence projects.
+###### :books: I’m currently learning Mobile App Development, Software Engineering, IoT.
+###### :outbox_tray: 2023 Goals: colaborate on Artificial Intelligence projects.
 
 ## About me
 
