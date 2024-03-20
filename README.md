@@ -6,7 +6,7 @@
 ###### :computer: I’ll be a Systems Analyst.
 ###### :house_with_garden: I’m from Brazil.
 ###### :books: I’m currently learning Computer Forensics, Knowledge Engineering, Internet of Things.
-###### :outbox_tray: 2023 Goals: colaborate on Artificial Intelligence projects.
+###### :outbox_tray: 2024 Goals: colaborate on Artificial Intelligence projects and teach programming in public schools.
 
 ## About me
 
