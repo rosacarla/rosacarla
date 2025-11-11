@@ -5,7 +5,7 @@
 #### I am Carla!  
 ###### :computer: I’ll be a Systems Analyst.
 ###### :house_with_garden: I’m from Brazil.
-###### :books: I’m currently learning Computer Forensics, Generative AI, NLP.
+###### :books: I’m currently learning Generative AI, Digital Literacy, Computer Forensics.
 ###### :outbox_tray: 2025 Goals: Collaborate on Artificial Intelligence projects and teach programming in public schools.
 
 ## About me
